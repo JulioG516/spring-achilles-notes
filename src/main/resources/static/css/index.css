@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+}
+
+.divLogo{
+  display: flex;
+  justify-content: center;
+}
+
+.logoAchilles {
+    width: 200px;
+    height: 200px;
+}
+
+.note{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+}
+.formDiv{
+  margin-bottom: 15px;
+}

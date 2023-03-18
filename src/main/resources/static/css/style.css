@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+}
+
+
+.logoAchilles {
+    width: 150px;
+    height: 150px;
+}
+
+.note{
+  margin-top: 10px;
+  border: 5px solid rgb(110, 110, 110);
+}
